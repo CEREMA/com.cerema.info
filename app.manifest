@@ -1,8 +1,8 @@
 {
     "namespace": "com.cerema.info",
-    "git": "",
-    "title": "com.cerema.info",
-    "description": "Package description goes here",
+    "git": "https://github.com/CEREMA/com.cerema.info",
+    "title": "CEREMA Info",
+    "description": "Informations sur le CEREMA",
     "platform": "desktop",
     "targets": [
         "webapp"
@@ -13,19 +13,17 @@
     "copyright": "Copyright (c) 2014 By CEREMA",
     "license": "BSD",
     "author": {
-        "name": "XXX",
-        "mail": "xxx@xxx.com",
-        "twitter": "@xxx",
-        "web": "",
-        "github": ""
+        "name": "Stéphane Zucatti",
+        "mail": "stephane.zucatti@cerema.fr",
+        "twitter": "@mydearsz"
     },
     "team": {
         "debugger": [],
         "tester": []
     },
     "langs": [
-        "en",
-        "fr"
+        "fr",
+        "en"
     ],
     "frameworks": [
         {
@@ -56,8 +54,8 @@
         "file": "app.png"
     },
     "splashscreen": {
-        "background": "#FFFFFF",
-        "color": "orange",
+        "background": "orange",
+        "color": "white",
         "file": "app.png"
     },
     "server": {
